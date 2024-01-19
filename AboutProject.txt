@@ -1,0 +1,12 @@
+DATA SOURCE
+https://en.wikipedia.org/wiki/Provinces_of_Vietnam
+https://en.wikipedia.org/wiki/List_of_Vietnamese_subdivisions_by_GDP
+
+CLEAN DATA
+Remove some columns.
+Edit columns name.
+Remove notations.
+
+MERGE QUERY
+
+VISUALISATION
